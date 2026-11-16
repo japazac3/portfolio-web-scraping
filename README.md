@@ -88,3 +88,29 @@ La extracción se realiza con fines de aprendizaje y respetando las condiciones 
 ## Autor
 
 Portafolio de desarrollo Python y análisis de datos.
+
+## 📊 Resultados y visualizaciones
+
+El proyecto genera cuatro gráficos estadísticos para facilitar la interpretación de los datos extraídos.
+
+### 1. Distribución de precios
+
+![Distribución de precios](reports/01_distribucion_precios.png)
+
+### 2. Calificaciones de libros
+
+![Calificaciones](reports/02_calificaciones.png)
+
+### 3. Precio promedio según calificación
+
+![Precio por calificación](reports/03_precio_por_calificacion.png)
+
+### 4. Disponibilidad de libros
+
+![Disponibilidad](reports/04_disponibilidad.png)
+
+## 📄 Informe automático en PDF
+
+El sistema genera un informe con indicadores estadísticos, gráficos y conclusiones.
+
+[Consultar informe de análisis de libros](reports/informe_analisis_libros.pdf)
