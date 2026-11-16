@@ -100,7 +100,7 @@ def save_csv(books, output):
 
 def main():
     parser = argparse.ArgumentParser(description="Books to Scrape educational crawler")
-    parser.add_argument("--max-pages", type=int, default=3)
+    parser.add_argument("--max-pages", type=int, default=50)
     parser.add_argument("--delay", type=float, default=1.0)
     parser.add_argument("--output", default="data/books.csv")
     args = parser.parse_args()
